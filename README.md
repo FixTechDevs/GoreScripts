@@ -1,13 +1,16 @@
-💉 Realistic GORE System for FiveM (ESX/QB)
-A fully immersive GORE script that adds brutal, dynamic body damage effects to your FiveM roleplay server. Designed for serious RP environments, this script enhances the realism of combat with cinematic visuals, blood decals, limb damage, and EMS integration.
+🔪 Realistic Gore Effects Script
+Add brutal realism and cinematic immersion to your FiveM server. Designed for both serious RP and action-packed gameplay, this script delivers realistic gore, injury tracking, and visual blood effects.
 
-🔥 Features
+🔥 Features:
 ✅ Bleeding effects with dripping blood
-✅ Blood pools & splatter FX
-✅ Limb injury tracking (drop weapons, limp, etc.)
-✅ Slow motion cinematic kill cam
-✅ Optimized for ESX & QB frameworks
-✅ Easy config & immersive visuals
+✅ Blood pools and splatter FX
+✅ Limb injury tracking (drop weapons, limp, lose control)
+✅ Cinematic slow-motion kill cam
+✅ Optimized for ESX and QB frameworks
+✅ Easy-to-use config with immersive visuals
+
+🎮 Great for gang RP, zombie servers, or cinematic PvP events!
+
 
 
  Preview https://youtu.be/iKFUKQoxMiU
