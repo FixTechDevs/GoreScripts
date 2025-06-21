@@ -2,20 +2,12 @@
 A fully immersive GORE script that adds brutal, dynamic body damage effects to your FiveM roleplay server. Designed for serious RP environments, this script enhances the realism of combat with cinematic visuals, blood decals, limb damage, and EMS integration.
 
 🔥 Features
-
-
-🩸 Live Blood Spray from open wounds
-
-🦵 Limb Damage (shots to legs = limping, arms = weapon drop)
-
-🩸 Blood Trails & Pools while crawling or moving injured
-
-
-📸 Cinematic Kill Cam (slow motion, blur, zoom-in)
-
-🔊 Gore Sounds (skull crush, tearing flesh, splatter)
-
-🚑 EMS Integration Auto Detect
+✅ Bleeding effects with dripping blood
+✅ Blood pools & splatter FX
+✅ Limb injury tracking (drop weapons, limp, etc.)
+✅ Slow motion cinematic kill cam
+✅ Optimized for ESX & QB frameworks
+✅ Easy config & immersive visuals
 
 
 Join our discord for free scripts I made.
