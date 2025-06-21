@@ -10,6 +10,8 @@ A fully immersive GORE script that adds brutal, dynamic body damage effects to y
 ✅ Easy config & immersive visuals
 
 
+ Preview https://youtu.be/iKFUKQoxMiU
+
 Join our discord for free scripts I made.
 Discord : https://discord.gg/QVcrWS9aat 
 Our Site : https://fivemdeveloper.xyz/
