@@ -1,23 +1,35 @@
 🔪 Realistic Gore Effects Script
-Add brutal realism and cinematic immersion to your FiveM server. Designed for both serious RP and action-packed gameplay, this script delivers realistic gore, injury tracking, and visual blood effects.
+Add brutal realism and cinematic immersion to your FiveM server.
+Perfect for serious RP or chaotic PvP gameplay, this script delivers immersive gore effects, injury tracking, and dynamic visuals that react to player actions.
 
-🔥 Features:
-✅ Bleeding effects with dripping blood
-✅ Blood pools and splatter FX
-✅ Limb injury tracking (drop weapons, limp, lose control)
-✅ Cinematic slow-motion kill cam
-✅ Optimized for ESX and QB frameworks
-✅ Easy-to-use config with immersive visuals
+🔥 Features
+✅ Bleeding Effects – Continuous dripping blood when wounded
 
-🎮 Great for gang RP, zombie servers, or cinematic PvP events!
+✅ Blood Pools & Splatter FX – Visible decals on floors and surfaces
 
+✅ Limb Injury Tracking – Drop weapons, limp, or lose control based on hit location
 
+✅ Slow-Motion Kill Cam – Cinematic kill sequences with blur and zoom
 
- Preview https://youtu.be/iKFUKQoxMiU
+✅ Optimized for ESX & QB – Fully compatible with popular frameworks
 
-Join our discord for free scripts I made.
-Discord : https://discord.gg/QVcrWS9aat 
-Our Site : https://fivemdeveloper.xyz/
-Developed by FixTechDevs
-Inspired by realism mods and gore effects in high-end RP servers.
+✅ Immersive Config – Easily customizable visuals and damage logic
+
+🎮 Perfect For:
+Gang RP servers
+
+Zombie survival gameplay
+
+Cinematic events and PvP shootouts
+
+📺 Preview Video
+▶️ Watch on YouTube: https://youtu.be/iKFUKQoxMiU
+
+📦 Get More:
+💬 Join Our Discord for Free Scripts: https://discord.gg/QVcrWS9aat
+
+🌐 Visit Our Official Site: https://fivemdeveloper.xyz/
+
+👨‍💻 Developed by FixTechDevs
+Inspired by high-end realism mods and gore effects from top RP communities.
 
