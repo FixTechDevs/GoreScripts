@@ -18,7 +18,9 @@ A fully immersive GORE script that adds brutal, dynamic body damage effects to y
 🚑 EMS Integration Auto Detect
 
 
-
+Join our discord for free scripts I made.
+Discord : https://discord.gg/QVcrWS9aat 
+Our Site : https://fivemdeveloper.xyz/
 Developed by FixTechDevs
 Inspired by realism mods and gore effects in high-end RP servers.
 
